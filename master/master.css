@@ -1,0 +1,59 @@
+
+#boton{
+  color:white;
+  background-color: #18BC9C;
+  border:  #18BC9C;
+}
+#tituloarriba1{
+  position: relative;
+
+
+}
+
+#verde{
+  background-color: #18BC9C;
+
+}
+#tituloarriba{
+font-family: 'Montserrat', sans-serif;
+
+}
+
+#verde h1{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#verde p{
+  font-family: 'Lato', sans-serif;
+
+}
+#PORTFOLIO{
+  font-family: 'Montserrat', sans-serif;
+}
+#about{
+  background-color: #18BC9C;
+
+}
+#about h2{
+  font-family: 'Montserrat', sans-serif;
+}
+#about p{
+    font-family: 'Lato', sans-serif;
+}
+#CONTACT h2{
+font-family: 'Montserrat', sans-serif;
+
+}
+.form-group input{
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+.message{
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+#footer{
+  background-color: #2C3E50;
+}
